@@ -1,0 +1,7 @@
+#!/Users/db/Capstone/venv/bin/python
+
+from randomfiletree.cli import cli
+
+
+if __name__ == "__main__":
+    cli()

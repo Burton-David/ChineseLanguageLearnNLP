@@ -1,0 +1,3 @@
+[console_scripts]
+pinyin = pinyin.cmd:pinyin
+
