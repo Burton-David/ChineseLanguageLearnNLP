@@ -1,0 +1,12 @@
+CHANGES.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/xpinyin/Mandarin.dat
+src/xpinyin/__init__.py
+src/xpinyin/tests.py
+src/xpinyin.egg-info/PKG-INFO
+src/xpinyin.egg-info/SOURCES.txt
+src/xpinyin.egg-info/dependency_links.txt
+src/xpinyin.egg-info/top_level.txt

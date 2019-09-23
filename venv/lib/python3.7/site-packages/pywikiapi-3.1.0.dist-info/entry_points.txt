@@ -1,0 +1,3 @@
+[console_scripts]
+pywikiapi = reader.__main__:main
+
