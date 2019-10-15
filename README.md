@@ -15,6 +15,6 @@ If you are studying Mandarin Chinese and want a more efficent highly customizabl
 - The program uses Google-API(text-to-speech and translate) for a simple definition and audio pronunciation
 - The program uses CC-Cedict database for a "better" translation of each word
 - The program uses Pinyin library to create a latinized pronunciation of each word
-- The user has a list of 20 words, pronunciations and flashcards to study
+- The user has a list of 20 words, pronunciations and flashcards to study and use as a cribsheet to learn from context!
 ## Curricula Ideology
 The human brain is wired to learn language from context and the way we learned our first language as an infant can be the most efficent way to learn a new language.  This program provides the scaffolding necessary to learn Mandarin from context!  This is a better method than rote memorization or any store bought program because learning from context is easier to recall than rote memorization and it does not rely upon a 1:1 translation method.  It is also more efficent than any store bought program because you are learning what you want to actually talk about and use which makes the material engaging and useful.  While a vocabulary list and pronunciations are created for a learner to study. This list is just the scaffolding necessary for a learner to begin deciphering real world examples of any given topic in Mandarin, and that is where the majority of the learning will take place.  
