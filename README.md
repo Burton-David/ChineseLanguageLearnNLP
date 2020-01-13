@@ -19,3 +19,6 @@ If you are studying Mandarin Chinese and want a more efficent highly customizabl
 ## Curricula Ideology
 The human brain is wired to learn language from context and the way we learned our first language as an infant can be the most efficent way to learn a new language.  This program provides the scaffolding necessary to learn Mandarin from context!  This is a better method than rote memorization or any store bought program because learning from context is easier to recall than rote memorization and it does not rely upon a 1:1 translation method.  It is also more efficent than any store bought program because you are learning what you want to actually talk about and use which makes the material engaging and useful.  While a vocabulary list and pronunciations are created for a learner to study. This list is just the scaffolding necessary for a learner to begin deciphering real world examples of any given topic in Mandarin, and that is where the majority of the learning will take place.  
 ## Extended Features That Can Be Used to Enhance Studying Results
+TTS (Text-to-Speech) using Google API
+STT (Speech-to-Text) using Google API
+SRS (Spaced-Repition-Studying)Flashcard system using Anki API
