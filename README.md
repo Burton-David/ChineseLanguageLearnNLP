@@ -303,9 +303,6 @@ df2
 ### Practice Pronouncing The Words
 #### Text-to-Speech Integration
 
-comment out or remove print row["漢字(traditional)"] and/row["pinyin(marks)"] if you do not want the chinese characters to print out in the practice
-
-
 ```python
 for index,row in df.iterrows():
     print(row['English'], row["漢字(traditional)"], row["pinyin(numbers)"])
