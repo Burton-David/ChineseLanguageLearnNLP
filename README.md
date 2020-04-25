@@ -1,4 +1,4 @@
-# Learn Chinese Effectively
+# Learn Mandarin Chinese Effectively
 **Datamining, Natural Language Processing, Machine Learning Translation, Google Cloud Integration**<br>
 *Learn the most important words for any given topic*<br>
 - Data Mines Wikipedia.ch<br>
