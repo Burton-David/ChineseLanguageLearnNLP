@@ -3,8 +3,7 @@
 *Learn the most important words for any given topic*<br>
 - Data Mines Wikipedia.ch<br>
 - Generates a personalized vocabulary list for student<br>
-<br>
-## About<br>
+## About <br>
 - The user enters a search phrase in English
 - The program returns a list of suggestions 
 - The user chooses from that list of suggestions a topic that most closely matches the topic they would like to study 
@@ -17,6 +16,7 @@
 ## The Algorithms
 - Term Frequency - Inverse Document Frequency <br>
 ![tfidf_{i,d} = tf_{i,d} \cdot idf_{i}](https://render.githubusercontent.com/render/math?math=tfidf_%7Bi%2Cd%7D%20%3D%20tf_%7Bi%2Cd%7D%20%5Ccdot%20idf_%7Bi%7D)
+
     - TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).<br>
     - IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
 ![idf\left ( t,D \right )= \log \left | D\left | 1+ \right |\left \{ d\epsilon D:t\epsilon d \right \} \right |](https://render.githubusercontent.com/render/math?math=idf%5Cleft%20(%20t%2CD%20%5Cright%20)%3D%20%5Clog%20%5Cleft%20%7C%20D%5Cleft%20%7C%201%2B%20%5Cright%20%7C%5Cleft%20%5C%7B%20d%5Cepsilon%20D%3At%5Cepsilon%20d%20%5Cright%20%5C%7D%20%5Cright%20%7C)
