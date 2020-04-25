@@ -1,4 +1,4 @@
-# Learn Mandarin Chinese Effectively  [Go to project](Main-Copy1.ipynb)
+# Learn Mandarin Chinese Effectively :[Project](Main-Copy1.ipynb)
 **Datamining, Natural Language Processing, Machine Learning Translation, Google Cloud Integration**<br>
 *Learn the most important words for any given topic*<br>
 - Data Mines Wikipedia.ch<br>
