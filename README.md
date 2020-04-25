@@ -101,15 +101,7 @@ df.drop_duplicates(subset='English',keep='first', inplace=True)
 df2= pd.merge(df, dictionary, on="漢字(traditional)", how='left')
 df2 = df2[["漢字(traditional)","汉字(simplified)","English","English2","pinyin(marks)","pinyin(numbers)"]]
 ```
-
-
-```python
-df2
-```
-
-
-
-
+Simplified characters are displayed if they are different than traditional.  As you can see, in this example there are only traditional characters.  However, it is a good idea to keep this output as simplified characters are widely used in print media. 
 
 <table border="1" class="dataframe">
   <thead>
